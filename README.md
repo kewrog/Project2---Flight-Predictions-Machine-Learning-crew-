@@ -3,8 +3,11 @@
 # README - Flight Prediction
 
 Roger Kewin Samson - A20563057
+
 Ekta Shukla - A20567127
+
 Rithika Kavitha Suresh - A20564346
+
 Jude Rosun - A20564339
 
 Analysis Overview
